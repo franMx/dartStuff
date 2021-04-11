@@ -25,5 +25,10 @@ void main(){
  dynamic temporal = 100; //tiene el valor de 100
  temporal="cien";//ahora es cien..
  temporal=null; //null.
-
+ 
+ //https://youtu.be/Ej_Pcr4uC2Q?t=1030
+ String s4=r"in a raw string \n some weird characters.."; //prints with line break + '
+ print (s4);
+s4=r'in a raw string \n some weird characters..'; //prints with line break + '
+ print (s4);
 }
