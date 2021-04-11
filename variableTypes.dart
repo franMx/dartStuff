@@ -31,4 +31,13 @@ void main(){
  print (s4);
 s4=r'in a raw string \n some weird characters..'; //prints with line break + '
  print (s4);
+ 
+ //para escribir varias lineas de texto...
+ //https://youtu.be/Ej_Pcr4uC2Q?t=1069
+   String multiline = """muchas
+  lineas y
+  una
+  linea""";
+  print(multiline);
+ 
 }
