@@ -21,5 +21,8 @@ void main(){
   
   bool diabloEsBueno=false;
   print('el diablo es bueno = $diabloEsBueno');
+ 
+ dynamic temporal = 100; //tiene el valor de 100
+ temporal="cien";//ahora es cien..
 
 }
