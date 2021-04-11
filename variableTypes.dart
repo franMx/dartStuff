@@ -24,5 +24,6 @@ void main(){
  
  dynamic temporal = 100; //tiene el valor de 100
  temporal="cien";//ahora es cien..
+ temporal=null; //null.
 
 }
